@@ -62,7 +62,7 @@ python score1.py
 ## Dataset
 
 The dataset used includes brain MRI scans categorized into:
-- Pituitary Tumor
+- Tumor
 - No Tumor
 
 Images are resized to a fixed input size (e.g., 224x224) and normalized before feature extraction.
